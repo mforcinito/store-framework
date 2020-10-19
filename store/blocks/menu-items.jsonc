@@ -6,34 +6,31 @@
       "itemProps": {
         "text": "Major Aplliances"
       }
-    },
-    "blocks": ["vtex.menu@2.x:submenu#major"]
+    }
   },
   "menu-item#small-appliances": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 2,
         "text": "Small Appliances"
       }
-    },
-    "blocks": ["vtex.menu@2.x:submenu#small"]
+    }
   },
   "menu-item#electronics": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 3,
         "text": "Electronics"
       }
-    },
-    "blocks": ["vtex.menu@2.x:submenu#electronics"]
+    }
   },
   "menu-item#refrigerators": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 4,
@@ -43,7 +40,7 @@
   },
   "menu-item#ovens": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 5,
@@ -53,7 +50,7 @@
   },
   "menu-item#washers": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 6,
@@ -63,7 +60,7 @@
   },
   "menu-item#mixers": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 7,
@@ -73,7 +70,7 @@
   },
   "menu-item#toasters": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 8,
@@ -83,7 +80,7 @@
   },
   "menu-item#coffee": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 9,
@@ -93,7 +90,7 @@
   },
   "menu-item#tvs": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 10,
@@ -103,7 +100,7 @@
   },
   "menu-item#laptops": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 11,
@@ -113,7 +110,7 @@
   },
   "menu-item#cameras": {
     "props": {
-      "type": "custom",
+      "type": "category",
       "highlight": true,
       "itemProps": {
         "categoryId": 12,
