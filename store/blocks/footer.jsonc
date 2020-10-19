@@ -38,6 +38,7 @@
     },
     "social-networks": {
         "props": {
+            "showInColor": true,
             "socialNetworks": [
                 { "url": "https://www.facebook.com", "name": "Facebook" },
                 { "url": "https://www.instagram.com", "name": "Instagram" },
